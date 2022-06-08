@@ -1,4 +1,4 @@
-# ShapeShift DAO Web Interface1212
+# ShapeShift DAO Web Interface
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
